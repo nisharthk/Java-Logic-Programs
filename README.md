@@ -1,2 +1,2 @@
 # Java-Logic-Programs
-This repository contains solved logic programs on Java 1.8
+This repository contains the solved logic programs on Java 1.8
