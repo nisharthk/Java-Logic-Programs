@@ -31,6 +31,7 @@ public class NotAString
 		return stringToAppendWith;
 	}
 	
+	//User Interface
 	public static void main(String[] args) 
 	{
 		out.println("To append the string 'Not' with another string and compare the strings");
